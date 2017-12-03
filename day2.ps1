@@ -1,3 +1,4 @@
+# https://github.com/MickeOberg/adventofcode
 # Day 2
 # Part One
 $spread = Get-Content -Path day2.txt
